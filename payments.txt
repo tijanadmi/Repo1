@@ -1,1 +1,2 @@
 payment option 1 - credit card
+Pay with paypal
